@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Programa para niños",
+    "description": "El Brazilian Jiu Jitsu es una excelente vía para que los niños aprendan respeto, disciplina, auto-confianza y otros invaluables valores. En el Brazilian Jiu Jitsu, los niños obtendrán habilidades de la lucha para someter, en vez de golpear y patear.",
+    "price": 50000
+  },
+  {
+    "id": 2,
+    "title": "Programa para mujeres",
+    "description": "Nuestro programa para mujeres, empodera a las mujeres con el set de habilidades de defensa personal Brazilian Jiu Jitsu, donde incrementa su auto-confianza, aumentando la energía positiva y aumentando el estado físico. Este programa fue creado para mujeres desde principiantes, hasta atletas que quieran competir.",
+    "price": 50000
+  },
+  {
+    "id": 3,
+    "title": "Programa para adultos",
+    "description": "El Brazilian Jiu Jitsu fue popularizado en USA y en Chile, en los años 90`s por la familia Gracie, cuando dominaron las artes marciales mixtas (MMA), en SENSHI Team Brazilian Jiu Jitsu ofrece programas de defensa personal, para principiantes hasta competidores tanto de MMA y BJJ.",
+    "price": 50000
+  },
+  {
+    "id": 4,
+    "title": "Programa para no binarios",
+    "description": "El Brazilian Jiu Jitsu fue popularizado en USA y en Chile, en los años 90`s por la familia Gracie, cuando dominaron las artes marciales mixtas (MMA), en SENSHI Team Brazilian Jiu Jitsu ofrece programas de defensa personal, para principiantes hasta competidores tanto de MMA y BJJ.",
+    "price": 50000
+  }
+]
