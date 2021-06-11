@@ -153,7 +153,7 @@ td:last-child {
   padding: 0 10px;
   color: #ffefca;
 }
-.welcome-container button {
+.welcome-container .btn {
   width: auto;
   color: #ffefca;
   font-size: 1rem;
@@ -161,7 +161,7 @@ td:last-child {
   position: relative;
   z-index: 1;
 }
-.welcome-container button::after {
+.welcome-container .btn::after {
   content: "";
   position: absolute;
   top: 0;
@@ -188,11 +188,11 @@ td:last-child {
   transition: transform 250ms ease-in-out;
 }
 
-.welcome-container button::after {
+.welcome-container .btn::after {
   transform: scaleX(0);
   transform-origin: right;
 }
-.welcome-container button:hover::after {
+.welcome-container .btn:hover::after {
   transform: scaleX(1);
   transform-origin: left;
 }
