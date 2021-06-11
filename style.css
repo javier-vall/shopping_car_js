@@ -54,7 +54,9 @@ p {
   display: none;
 }
 .submenu:hover #carrito {
-  display: block;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   position: absolute;
   right: 0;
 
